@@ -38,6 +38,8 @@ h1 {
   font-size: 2rem;
   padding: 15px 0;
   font-family: 'Rubik Dirt', cursive;
+  color: #6d6875;
+
 }
 
 .seccion-descripcion {
@@ -90,6 +92,7 @@ h1 {
 .sobre-mi {
   height: 500px;
   padding: 10px;
+  background-color: #81b29a;
 }
 
 .sobre-mi .contenedor {
@@ -115,13 +118,13 @@ h1 {
 
 .experiencia .columna:hover {
   color: white;
-  background-color: #1b1b32;
+  background-color: #3d405b;
 }
 
 .experiencia i {
   font-size: 2.5rem;
-  color: #7ade30;
-  background-color: #0a0a23;
+  color: #3d405b;
+  background-color: #f2cc8f;
   padding: 8px 19px;
   border-radius: 50%;
 }
@@ -140,6 +143,7 @@ h1 {
 
 .badge {
   margin: 5px;
+  background-color: #e07a5f;
 }
 
 /* Proyectos */
@@ -265,7 +269,7 @@ h1 {
 
 .contacto .rectangulo {
   margin-top: -5rem;
-  background-color: rgb(13, 110, 253);
+  background-color: #f4f1de;
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px white;
 }
@@ -277,15 +281,15 @@ h1 {
 }
 
 .contacto .descripcion {
-  color: white;
+  color: #e07a5f;
   font-size: 1.2rem;
 }
 
 .contacto button {
-  color: white;
+  color: #3d405b;
   font-weight: bold;
   background-color: transparent;
-  border: 2px solid white;
+  border: 2px solid #3d405b;
   padding: 1.25em 2em;
   margin: 10px;
   border-radius: 100px;
@@ -298,7 +302,7 @@ h1 {
 }
 
 .contacto button i {
-  color: white;
+  color: #3d405b;
   font-size: 1.3rem;
   transition: all 0.2s ease-in-out;
 }
